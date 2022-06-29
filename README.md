@@ -7,3 +7,5 @@
 ## Features
 
 - Change the theme color for dark mode
+
+![capa](image/capa.png)
