@@ -1,8 +1,8 @@
-﻿## Manipulando o DOM
+﻿## Manipulating the DOM
 
 ### Light and Dark mode
 
-#### primeiros projetos em JavaScript
+#### First JavaScript projects
 
 ## Features
 
